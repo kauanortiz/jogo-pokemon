@@ -1,4 +1,4 @@
-# Projeto-Pokedex
+# Jogo Pokémon
 Repositório criado para o desenvolvimento do projeto do Jogo Pokémon.
 
 1 - Para rodar o jogo, o usuário necessita abrir a pasta "src" e rodar o arquivo main.c;
